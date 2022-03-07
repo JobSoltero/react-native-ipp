@@ -1,4 +1,3 @@
-import serialize from "./lib/serializer";
 import request from "./lib/request";
 import Printer from "./lib/printer";
 import versions from "./lib/versions";
@@ -16,7 +15,6 @@ import {
 import { getPrinters } from "./lib/printer-list";
 
 export default {
-  serialize,
   request,
   Printer,
   versions,
