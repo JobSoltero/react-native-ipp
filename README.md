@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install github:copas12/react-native-ipp --save`
+`$ npm install github:JobSoltero/react-native-ipp --save`
 
 ## Usage
 
