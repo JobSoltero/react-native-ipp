@@ -1,4 +1,3 @@
-import parse from "./lib/parser";
 import serialize from "./lib/serializer";
 import request from "./lib/request";
 import Printer from "./lib/printer";
@@ -17,7 +16,6 @@ import {
 import { getPrinters } from "./lib/printer-list";
 
 export default {
-  parse,
   serialize,
   request,
   Printer,
